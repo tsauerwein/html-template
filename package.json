@@ -40,7 +40,7 @@
   "dependencies": {
     "@asyncapi/generator-react-sdk": "^1.0.20",
     "@asyncapi/parser": "^3.1.0",
-    "@asyncapi/react-component": "^1.2.13",
+    "@asyncapi/react-component": "tsauerwein/asyncapi-react#show-examples-for-messages",
     "highlight.js": "10.7.3",
     "puppeteer": "^14.1.0",
     "react-dom": "^17.0.2",
